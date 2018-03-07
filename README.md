@@ -10,3 +10,7 @@
 
 # 区块链
 [从拜占庭将军问题到智慧契约](https://yq.aliyun.com/articles/60132?spm=5176.100239.blogcont60131.16.sPqOSv)
+
+
+# 中文文档
+[入口](https://www.docschina.org/)
