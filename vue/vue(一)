@@ -1,0 +1,13 @@
+vue是一个js框架，用来构建用户界面。目前最新的是2.0版本。
+安装
+
+有两种安装方式：
+1、直接script引入
+2、npm 安装
+
+推荐是第二种，不过第一种也有特定场景。在不适合修改node_module的场景下，就可以采用script的方式，作为一个普通的javascript lib库引入。
+入门例子
+命名规则
+
+一个自定义的components id为nav，遇到了错误。
+https://cnodejs.org/topic/5816aabdcf18d0333412d323
