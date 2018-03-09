@@ -1,1 +1,1 @@
-[网络文档] (https://www.appinn.com/markdown/)
+[网络文档](https://www.appinn.com/markdown/)
