@@ -23,3 +23,10 @@ git rm
 远程
 git push origin master
 git clone git@github.com：name/xxxx.git
+
+创建分支
+git checkout -b dev
+git branch
+
+合并分支
+git merge dev
