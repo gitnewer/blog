@@ -30,3 +30,6 @@ git branch
 
 合并分支
 git merge dev
+
+远程添加
+git remote add origin http://github.com
