@@ -33,3 +33,6 @@ git merge dev
 
 远程添加
 git remote add origin http://github.com
+
+左右对比
+git difftool -y -x sdiff
