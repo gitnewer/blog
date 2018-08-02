@@ -3,7 +3,7 @@ http://www.vim.org/scripts/script.php?script_id=2540
 
  E576: viminfo: Missing '>' in line: 
 这种错误，是因为操作历史里面有语法错误，去删除或修改~/.viminfo文件就可以解决
-
+ 
 
 20171011 解决鼠标中键粘贴以后的vimrc文件
 
