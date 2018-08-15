@@ -1,4 +1,4 @@
-
+# 构造函数的方法
 Object.create(obj)
 可以把obj当做__proto__
 
